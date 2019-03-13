@@ -1,0 +1,13 @@
+h1{
+  font-family: Arial;
+  color: blue;
+  font-size: 400%;
+  text-align: center
+}
+body{
+  margin: 25px 25px;
+}
+p{
+  font-family: Ariel;
+  font-size: 200%;
+}
